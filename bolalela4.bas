@@ -15,7 +15,7 @@
         cls
 #                                                          variables setup:
 #                                                              c = unused?!
-#                                                              d = bola's vertical direction (d=1 rising or d=0 falling)
+#                                                              d = Bolalela's vertical direction (d=1 rising or d=0 falling)
 #                                                              e = vertical bounce counter
 #                                                              q = memory address
 #                                                              t = score
