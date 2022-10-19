@@ -36,7 +36,7 @@
 #                                                              b$ = address 22529 (start of screen attributes+1)length 672 bytes
 #                                                          so "a$=b$" has the effect of pulling all attributes on screen to the left (hence why no characters used)
 #                                                          line wrapping means that existing items exiting at the left of the screen will re-appear at the right
-#                                                          which means that as the game progresses the screen will get more and more crowded
+#                                                          consequently as the game progresses the screen will get more and more crowded
         for n=q-4 to 58897
             read a
             poke n,a
