@@ -1,7 +1,7 @@
 # Bolalela 4 - a commented source
 
 [This game by Beyker Soft](https://bunsen.itch.io/bolalela-4-by-beyker-soft) was an intriguing entry into the [Basic 10Liner competition 2021](https://gkanold.wixsite.com/homeputerium/results-2021).
-Somehow it achieves the impossible feat of scrolling an entire playfield both vertically and horizontally in BASIC, with playable performance.
+Somehow it achieves a feat normally impossible in BASIC: scrolling an entire playfield both vertically and horizontally with playable performance.
 
 [![Bolalela 4 gameplay](images/gameplay.gif "Bolalela 4 gameplay")](https://bunsen.itch.io/bolalela-4-by-beyker-soft)
 
