@@ -30,7 +30,8 @@
 #                                                          DEFADD trick to copy memory fast in BASIC
 #                                                          http://blog.jafma.net/2020/03/16/efficient-basic-coding-for-the-zx-spectrum-iv/#en_5
 #                                                          writes the following bytes (a fake DEF FN statement with 2 string input variables) to address q-4 (58880):
-#                                                              97,36,14,0,0,88,160,2,44,98,36,14,0,1,88,160,2,41
+#                                                              97,36,14,0,0,88,160,2,44,
+#                                                              98,36,14,0,1,88,160,2,41
 #                                                          which translates to:
 #                                                              a$ = address 22528 (start of screen attributes), length 672 bytes (20 charcter rows)
 #                                                              b$ = address 22529 (start of screen attributes+1), length 672 bytes
