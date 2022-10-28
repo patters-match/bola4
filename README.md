@@ -5,7 +5,9 @@ Somehow it achieves a feat normally impossible in BASIC: scrolling an entire pla
 
 [![Bolalela 4 gameplay](images/gameplay.gif "Bolalela 4 gameplay")](https://bunsen.itch.io/bolalela-4-by-beyker-soft)
 
-Clearly some sorcery is afoot but, as one might expect, the listing doesn't give up its secrets easily. Typically entries into the 10Liner competition tend to post an accompanying program explanation, but this game did not have one... until now.
+It's quite obfuscated, but the main trick here is to manipulate the Sinclair BASIC interpreter's function processing (DEF FN) to fast copy some fake string variables, which are in fact pointed at the screen attribute memory.
+
+Typically entries into the 10Liner competition tend to post an accompanying program explanation, but this game did not have one... until now.
 
 This commented listing can be built by [zmakebas](https://github.com/ohnosec/zmakebas) into a functionally identical Spectrum listing to the original, though no longer a ten-liner.
 
